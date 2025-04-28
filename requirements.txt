@@ -1,0 +1,13 @@
+streamlit
+beautifulsoup4
+selenium
+requests
+pdfplumber
+transformers
+torch
+spacy
+scikit-learn
+lxml
+pandas
+openpyxl
+nltk
