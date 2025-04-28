@@ -27,17 +27,3 @@ RoBERTa (for Question-Answering)
 BART (for Abstractive Summarization)
 
 Summa (for Extractive Summarization)
-
-Folder Structure
-Echosift/
-├── app.py                # Main Streamlit Application
-├── Scraper/
-│   ├── web_scraper.py     # Website text extractor
-│   └── pdf_scraper.py     # PDF and OCR text extractor
-├── nlp/
-│   ├── summarizer.py      # Summarization module
-│   ├── qna_bot.py         # Question Answering module
-│   └── keyword_extractor.py  # Keyword extraction (NER)
-├── utils/
-│   ├── export.py          # Data export (CSV, JSON)
-│   └── security.py        # Security and redirect checks
